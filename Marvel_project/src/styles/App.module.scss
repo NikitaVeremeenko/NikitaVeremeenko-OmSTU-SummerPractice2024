@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 20px;
+}
+
+a:visited {
+    color: black;
+}
+
+.counter {
+    color: rgb(135, 135, 135);
+    font-size: 24px;
+}

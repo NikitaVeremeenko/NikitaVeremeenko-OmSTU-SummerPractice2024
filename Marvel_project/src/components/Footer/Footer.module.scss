@@ -1,0 +1,23 @@
+.footer {
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    background-color: #20232a;
+    color: rgb(170, 170, 170);
+
+    img {
+        height: 40px;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    a:visited {
+        color: rgb(170, 170, 170);
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+}
